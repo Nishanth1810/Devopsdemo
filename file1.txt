@@ -4,10 +4,7 @@
 zcxc
 asf
 fff
-<<<<<<< Updated upstream
-******
-=======
->>>>>>> Stashed changes
+
 123
 456
 789
